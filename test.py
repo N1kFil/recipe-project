@@ -1,5 +1,5 @@
 print('test')
-print('hello world! ' * 3)
+print('Boris Sin')
+print('111111')
 
-print('new test')
-print('!!!')
+print('hello world! ' * 3)
