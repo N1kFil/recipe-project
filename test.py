@@ -1,4 +1,4 @@
-print('test yanattt')
+print('test yana')
 print('hello world')
 print('Boris Sin Lox')
 while True:
@@ -8,4 +8,8 @@ print('Boris Sin Lox')
 print('Boris Sin Lox')
 print('Boris Sin Lox')
 print('Boris Sin Lox')
+
+
+
+print
 print("new_b")
