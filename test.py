@@ -6,3 +6,6 @@ print('hello world! ' * 3)
 
 
 print('sosat')
+
+print('text test')
+print('!!!')
