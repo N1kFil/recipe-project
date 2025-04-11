@@ -1,4 +1,4 @@
-print('test yana')
+print('test yanattt')
 print('hello world')
 print('Boris Sin Lox')
 while True:
